@@ -1,0 +1,68 @@
+generated: '2026-07-19'
+method: searched
+source: https://leahai.com/trust-portal
+name: Leah Trust Portal
+url: https://leahai.com/trust-portal
+company: ContractPod Technologies Limited
+address: 2 Kingdom Street, 2nd Floor, London, W2 6BD, United Kingdom
+contact: connect@leahai.com
+self_serve: false
+notes: >-
+  Leah (formerly ContractPodAi) publishes a Trust Portal listing named
+  certifications and audit reports. Several reports are gated — available on
+  request or under NDA — rather than downloadable. The company states it is a
+  five-time Gartner CLM Visionary and SOC 2 Type II certified in its own llms.txt.
+certifications:
+- name: ISO/IEC 27001:2022
+  status: certified
+  evidence: Certificate listed on the Trust Portal.
+- name: SOC 2 Type II
+  status: certified
+  evidence: >-
+    Asserted in https://leahai.com/llms.txt ("SOC 2 Type II certified") and in the
+    Trust Portal's SOC audit materials.
+- name: SOC 3
+  status: report_available
+  evidence: SOC Type 3 report listed on the Trust Portal.
+- name: SOC 1
+  status: report_available
+  evidence: SOC 1 audit information referenced from the Trust Portal listing in llms.txt.
+- name: GDPR
+  status: audited
+  evidence: GDPR audit report (July 2023) listed on the Trust Portal.
+- name: HIPAA / HITECH
+  status: report_on_request
+  evidence: Report available upon request per the Trust Portal.
+- name: TISAX
+  status: report_available
+  evidence: TISAX report listed on the Trust Portal.
+practices:
+- penetration_testing: annual independent penetration testing
+  evidence: >-
+    Trust Portal — results are "fed into our Vulnerability Management Program and
+    remediated in accordance with our policy timelines."
+- vulnerability_management: documented Vulnerability Management Program with policy timelines
+  evidence: https://leahai.com/trust-portal
+- hosting: Microsoft Azure
+  evidence: >-
+    Trust Portal links to Azure security fundamentals and physical security
+    documentation as the underlying infrastructure controls.
+documents:
+- name: Security Information Datasheet
+  url: https://leahai.com/resources2/security-information-datasheet
+  status: 200
+- name: Data Processing Addendum
+  url: https://leahai.com/dpa
+  status: 200
+- name: Privacy Statement
+  url: https://leahai.com/privacy-statement
+  status: 200
+- name: Master Terms
+  url: https://leahai.com/master-terms
+  status: 200
+- name: Legal document hub
+  url: https://leahai.com/legal
+  status: 200
+- name: AI Governance
+  url: https://leahai.com/ai-governance
+  status: 200

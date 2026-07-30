@@ -1,0 +1,37 @@
+generated: '2026-07-19'
+method: searched
+source: live probes of https://leahai.com/.well-known/*
+notes: >-
+  Probed the canonical Leah host for the standard well-known discovery paths. None
+  are published. Leah runs a Next.js marketing site with no public developer or
+  identity surface; the product (Leah Agentic OS) is delivered to enterprise
+  tenants under contract, so no OAuth/OIDC metadata is exposed on the public
+  domain. An absent record is a valid, expected result and is recorded here so
+  later runs do not re-probe blindly.
+hosts:
+- host: leahai.com
+  paths:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  other:
+  - path: /llms.txt
+    status: 200
+    file: ../llms/leah-llms.txt
+    note: Published, curated, and current — saved verbatim.
+  - path: /sitemap.xml
+    status: 200
+    file: null
+    note: 466 URLs; no developer, API, or docs section.

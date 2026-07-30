@@ -1,0 +1,67 @@
+generated: '2026-07-19'
+method: searched
+source: >-
+  https://leahai.com/trust-portal, https://leahai.com/llms.txt,
+  https://leahai.com/products/integrations, https://leahai.com/ai-governance
+notes: >-
+  Leah publishes no public developer portal, no OpenAPI, and no API reference, so
+  no technical/API-shape conformance can be asserted or derived. The company does
+  publish named security and privacy compliance attestations, which are recorded
+  here. Entries with conforms:null are unknown-not-false — the evidence is not
+  public. Nothing below is inferred beyond what Leah states.
+standards:
+- id: soc2-type2
+  conforms: true
+  evidence: >-
+    "Leah has been recognized as a Gartner CLM Visionary five times and is SOC 2
+    Type II certified" — https://leahai.com/llms.txt; SOC audit materials on
+    https://leahai.com/trust-portal
+- id: iso-27001
+  conforms: true
+  evidence: ISO/IEC 27001:2022 certificate listed on https://leahai.com/trust-portal
+- id: soc3
+  conforms: true
+  evidence: SOC Type 3 report listed on https://leahai.com/trust-portal
+- id: gdpr
+  conforms: true
+  evidence: >-
+    GDPR audit report (July 2023) on https://leahai.com/trust-portal; Data
+    Processing Addendum at https://leahai.com/dpa
+- id: hipaa
+  conforms: true
+  evidence: HIPAA/HITECH report available on request per https://leahai.com/trust-portal
+- id: tisax
+  conforms: true
+  evidence: TISAX report listed on https://leahai.com/trust-portal
+- id: oauth2
+  conforms: null
+  evidence: >-
+    No public authorization documentation and no /.well-known/oauth-authorization-server
+    (404). Tenant SSO/identity integration is referenced generically on
+    https://leahai.com/products/integrations but no scheme is published.
+- id: oidc
+  conforms: null
+  evidence: /.well-known/openid-configuration returns 404 on leahai.com.
+- id: rfc9457
+  conforms: null
+  evidence: No public API reference or error catalog is published.
+- id: pagination
+  conforms: null
+  evidence: No public API reference is published.
+- id: idempotency
+  conforms: null
+  evidence: No public API reference is published.
+- id: fhir
+  conforms: false
+  evidence: Not a healthcare data-exchange API; out of domain.
+- id: fapi
+  conforms: false
+  evidence: Not an open-banking API; out of domain.
+- id: psd2
+  conforms: false
+  evidence: Not a payments API; out of domain.
+- id: scim
+  conforms: null
+  evidence: >-
+    User provisioning is handled through enterprise integrations; no SCIM endpoint
+    is publicly documented.

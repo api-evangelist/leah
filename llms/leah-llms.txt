@@ -1,0 +1,82 @@
+# Leah
+
+> Leah (formerly ContractPodAi) is an enterprise agentic AI platform that unifies contract lifecycle management (CLM), legal, procurement, and finance operations into one connected system for the commercial enterprise.
+
+Leah is a ContractPod Technologies Limited company. ContractPodAi rebranded to Leah: the same company, the same legal entity, and the same products under the Leah name. The canonical domain is https://leahai.com, and all pages are served as standard HTML; no separate Markdown versions are published. Leah has been recognized as a Gartner CLM Visionary five times and is SOC 2 Type II certified. This file is a curated guide to the most authoritative public pages on leahai.com. For exhaustive URL discovery, use the XML sitemap linked in the Optional section.
+
+## Core Context
+
+- [Why Leah](https://leahai.com/why-leah): Positioning overview and how Leah compares to CLM vendors, legal AI point tools, and source-to-pay platforms.
+- [Leah Agentic OS](https://leahai.com/products/agentic-os): Core platform architecture for orchestrating AI agents, workflows, applications, and enterprise systems.
+- [Leah Agentic CLM](https://leahai.com/products/agentic-clm): Contract lifecycle management covering intake, creation, AI review and playbook-driven redlining, approval routing, e-signature, smart repository, obligation tracking, and renewals.
+- [Leah Legal](https://leahai.com/products/agentic-os/leah-legal): Legal product for contract review, obligations, regulatory compliance, governance, and portfolio risk.
+- [Leah Procurement](https://leahai.com/products/agentic-os/procurement): Procurement product for sourcing, supplier risk, spend governance, and procurement workflows.
+- [Leah Finance](https://leahai.com/products/agentic-os/finance): Finance and shared services product for order-to-cash, spend controls, and transactional operations.
+- [Leah Maestro](https://leahai.com/products/agentic-os/maestro): Enterprise super orchestrator that coordinates agents, workflows, and systems across the platform.
+- [Integrations](https://leahai.com/products/integrations): Enterprise integration coverage across ERP, CRM, existing CLM, procurement, e-signature, document, identity, and data platforms.
+- [Implementation](https://leahai.com/services/implementation): Implementation and deployment services for enterprise rollouts.
+
+## Agentic OS Capabilities
+
+- [Skill-Based Orchestration](https://leahai.com/products/agentic-os/orchestration): How Leah plans, routes, and coordinates agentic work across systems.
+- [Agentic Workflows](https://leahai.com/products/agentic-os/workflows): Triggered, multi-step workflows for enterprise processes.
+- [Agentic App Builder](https://leahai.com/products/agentic-os/app-builder): Natural-language builder for production-grade enterprise agentic applications.
+- [Agent Library](https://leahai.com/products/agentic-os/agent-library): Catalog of pre-built legal, procurement, finance, compliance, and commercial agents.
+
+## Solutions by Function
+
+- [Legal Operations](https://leahai.com/solutions/legal-operations): How legal teams use Leah for contract review, regulatory compliance, obligation tracking, and portfolio risk, with outcome data including a 91% reduction in legal review time and 98.3% independently validated extraction accuracy.
+- [Procurement and Sourcing](https://leahai.com/solutions/procurement): How procurement teams use Leah for spend visibility, supplier risk monitoring, sourcing execution, contract intelligence, and P2P compliance, with customer outcome data and FAQs.
+- [Finance](https://leahai.com/solutions/finance): How finance and shared services teams use Leah for spend analytics, payables and receivables orchestration, and controls.
+- [Sales and Revenue](https://leahai.com/solutions/sales-revenue): How sales and revenue teams use Leah for commercial contract workflows.
+
+## Use Cases
+
+- [Use Case Library](https://leahai.com/use-cases): Indexed library of Leah use cases across legal, procurement, finance, and compliance.
+- [Compliance Management](https://leahai.com/use-cases/compliance-management): Continuous compliance monitoring, evidence collection, and remediation workflows.
+- [Obligation Management](https://leahai.com/use-cases/obligation-management): Contractual obligation extraction, tracking, routing, and escalation.
+- [NDA Review](https://leahai.com/use-cases/nda-review): NDA review, redlining, routing, and approval support.
+- [Four-Way Invoice Matching](https://leahai.com/use-cases/four-way-invoice-matching): Invoice validation across purchase orders, receipts, contracts, and supplier data.
+- [Tariff Management](https://leahai.com/use-cases/tariff-management): Trade, tariff, and supplier exposure management.
+
+## Industries
+
+- [Financial Services](https://leahai.com/industries/financial-services): Leah for banks, insurers, and financial services organizations.
+- [Healthcare](https://leahai.com/industries/healthcare): Leah for healthcare organizations.
+- [Manufacturing](https://leahai.com/industries/manufacturing): Leah for CPG and manufacturing organizations.
+- [Energy and Utilities](https://leahai.com/industries/energy-utilities): Leah for energy and utilities organizations.
+- [Life Sciences](https://leahai.com/industries/life-sciences): Leah for pharma, medical device, and life sciences organizations.
+- [Retail](https://leahai.com/industries/retail): Leah for retail organizations.
+- [Software and Technology](https://leahai.com/industries/software-technology): Leah for software and technology organizations.
+
+## Customer Proof
+
+- [Customers](https://leahai.com/resources/customers): Customer list and quotes from enterprises including PwC, KPMG, Philips, Alaska Airlines, MUFG, and Cushman & Wakefield.
+- [Customer Stories](https://leahai.com/resources/customer-stories): Detailed customer success stories with quantified outcomes.
+
+## Trust, Governance, and Company
+
+- [Trust Portal](https://leahai.com/trust-portal): Security, privacy, and compliance resources, including SOC 1 and SOC 2 Type 2 audit information.
+- [AI Governance](https://leahai.com/ai-governance): How Leah governs AI behavior, auditability, and policy controls.
+- [About Leah](https://leahai.com/about): Company overview, leadership, and partners.
+- [ContractPodAi Has Moved to Leah](https://leahai.com/contractpodai-has-moved-to-leahai-com): Explanation of the ContractPodAi-to-Leah rebrand.
+- [Legal Documents](https://leahai.com/legal): Hub for the Privacy Statement, Data Processing Addendum, Security Data Sheet, Master Terms, and Marketplace Terms.
+- [Privacy Statement](https://leahai.com/privacy-statement): Privacy statement.
+- [Data Processing Addendum](https://leahai.com/dpa): Data processing addendum.
+- [Master Terms](https://leahai.com/master-terms): Master terms governing use of Leah services.
+
+## Resources
+
+- [Blog](https://leahai.com/blog): Articles on enterprise AI, CLM, legal operations, procurement, and agentic workflows.
+- [Newsroom](https://leahai.com/newsroom): Leah news and announcements.
+- [Press Releases](https://leahai.com/press-releases): Company press releases.
+- [Video Library](https://leahai.com/video-library): Product videos, customer testimonials, and educational media.
+- [Events](https://leahai.com/events): Webinars, events, and sessions.
+
+## Optional
+
+- [Request a Demo](https://leahai.com/request-a-demo): Demo request page.
+- [Contact](https://leahai.com/contact): General contact page.
+- [Careers](https://leahai.com/careers): Careers information.
+- [Search](https://leahai.com/search): Site search.
+- [Sitemap](https://leahai.com/sitemap.xml): XML sitemap for full indexed URL discovery.
