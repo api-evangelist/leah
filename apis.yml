@@ -1,21 +1,50 @@
 aid: leah
 name: Leah
-description: Leah is a company surfaced as a portfolio company of insight-partners, softbank-vision-fund
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: Leah, formerly ContractPodAi and legally ContractPod Technologies Limited, is a London-headquartered
+  enterprise agentic AI company that unifies contract lifecycle management, legal transformation, procurement,
+  and finance operations into a single autonomous system. Its Leah Agentic OS platform provides skills-based
+  orchestration, agentic workflows, a natural-language app builder, a library of domain-specific legal,
+  contracting, procurement, and finance agents, and the Leah Maestro enterprise orchestrator. Leah is a
+  five-time Gartner CLM Visionary, is SOC 2 Type II and ISO/IEC 27001:2022 certified, and is used by enterprises
+  including PwC, KPMG, Philips, Alaska Airlines, MUFG, and Cushman & Wakefield. Leah ships pre-built connectors
+  and describes open REST APIs for enterprise integration, but maintains no public developer portal or
+  published API reference — API access is unlocked through the enterprise contract.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/64d23588b5199eed2ffab0c7/690b812e3a3b0cc6c2724cfa_Leah_BlackColor_Logo.svg
 url: https://raw.githubusercontent.com/api-evangelist/leah/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - insight-partners
 - softbank-vision-fund
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-former-name: ContractPodAi
+x-legal-entity: ContractPod Technologies Limited
+x-tier: profiled
+x-tier-reason: enriched-no-public-api
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Artificial Intelligence
+- Agentic AI
+- Contract Lifecycle Management
+- Legal
+- Legal Technology
+- Procurement
+- Source To Pay
+- Finance
+- Enterprise Software
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +54,44 @@ maintainers:
 common:
 - type: Website
   url: https://leahai.com/
+- type: LLMsTxt
+  url: llms/leah-llms.txt
+- type: WellKnown
+  url: well-known/leah-well-known.yml
+- type: DomainSecurity
+  url: security/leah-domain-security.yml
+- type: TrustCenter
+  url: security/leah-trust-center.yml
+- type: Conformance
+  url: conformance/leah-conformance.yml
+- type: Compliance
+  url: conformance/leah-conformance.yml
+- type: Integrations
+  url: https://leahai.com/products/integrations
+- type: Blog
+  url: https://leahai.com/blog
+- type: Support
+  url: https://leahai.com/contact
+- type: UseCases
+  url: https://leahai.com/use-cases
+- type: PrivacyPolicy
+  url: https://leahai.com/privacy-statement
+- type: TermsOfService
+  url: https://leahai.com/master-terms
+- type: About
+  url: https://leahai.com/about
+- type: Careers
+  url: https://leahai.com/careers
+- type: PressRelease
+  url: https://leahai.com/press-releases
+- type: LinkedIn
+  url: https://www.linkedin.com/company/leahai-ai/
+- type: Twitter
+  url: https://x.com/Leahai_ai
+- type: YouTube
+  url: https://www.youtube.com/@leahai-ai
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
