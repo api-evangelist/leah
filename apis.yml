@@ -9,6 +9,17 @@ description: Leah, formerly ContractPodAi and legally ContractPod Technologies L
   including PwC, KPMG, Philips, Alaska Airlines, MUFG, and Cushman & Wakefield. Leah ships pre-built connectors
   and describes open REST APIs for enterprise integration, but maintains no public developer portal or
   published API reference — API access is unlocked through the enterprise contract.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
