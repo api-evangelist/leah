@@ -1,0 +1,34 @@
+# Front Door AI Index — leah — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: leah
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: leahai.com
+  final_host: leahai.com
+  ownership: own
+  owner: leah
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 57
+  host_score: 57
+  density: 28.47
+  words: 2002
+  tiers:
+    agentic: 22
+    core: 35
+    model: 0
+  ambiguous: 21
+  top_terms:
+    AI: 34
+    agentic: 20
+    agent: 11
+    intelligence: 5
+    automation: 3
+    AI agent: 1
+    AI assistant: 1
+    cognitive: 1
+    gen ai: 1
+    smart: 1
